@@ -1,0 +1,8 @@
+set(headers ${headers}
+	src/PCH.h
+	src/Util.h
+	src/robin_hood.h
+	src/SimpleIni.h
+	src/Version.h
+	src/logger.h
+)
